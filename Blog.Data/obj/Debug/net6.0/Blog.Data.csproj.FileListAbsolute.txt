@@ -1,0 +1,38 @@
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Data\bin\Debug\net6.0\Blog.Data.deps.json
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Data\bin\Debug\net6.0\Blog.Data.runtimeconfig.json
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Data\bin\Debug\net6.0\Blog.Data.dll
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Data\bin\Debug\net6.0\Blog.Data.pdb
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Data\bin\Debug\net6.0\Blog.Core.dll
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Data\bin\Debug\net6.0\Blog.Entity.dll
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Data\bin\Debug\net6.0\Blog.Entity.pdb
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Data\bin\Debug\net6.0\Blog.Core.pdb
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Data\obj\Debug\net6.0\Blog.Data.csproj.AssemblyReference.cache
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Data\obj\Debug\net6.0\Blog.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Data\obj\Debug\net6.0\Blog.Data.AssemblyInfoInputs.cache
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Data\obj\Debug\net6.0\Blog.Data.AssemblyInfo.cs
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Data\obj\Debug\net6.0\Blog.Data.csproj.CoreCompileInputs.cache
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Data\obj\Debug\net6.0\Blog.Data.csproj.CopyComplete
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Data\obj\Debug\net6.0\Blog.Data.dll
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Data\obj\Debug\net6.0\refint\Blog.Data.dll
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Data\obj\Debug\net6.0\Blog.Data.pdb
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Data\obj\Debug\net6.0\Blog.Data.genruntimeconfig.cache
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Data\obj\Debug\net6.0\ref\Blog.Data.dll
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Data\obj\Debug\net6.0\Blog.Data.csproj.AssemblyReference.cache
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Data\obj\Debug\net6.0\Blog.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Data\obj\Debug\net6.0\Blog.Data.AssemblyInfoInputs.cache
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Data\obj\Debug\net6.0\Blog.Data.AssemblyInfo.cs
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Data\obj\Debug\net6.0\Blog.Data.csproj.CoreCompileInputs.cache
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Data\obj\Debug\net6.0\Blog.Data.dll
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Data\obj\Debug\net6.0\refint\Blog.Data.dll
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Data\obj\Debug\net6.0\Blog.Data.pdb
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Data\bin\Debug\net6.0\Blog.Data.deps.json
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Data\bin\Debug\net6.0\Blog.Data.runtimeconfig.json
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Data\bin\Debug\net6.0\Blog.Data.dll
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Data\bin\Debug\net6.0\Blog.Data.pdb
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Data\bin\Debug\net6.0\Blog.Core.dll
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Data\bin\Debug\net6.0\Blog.Entity.dll
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Data\bin\Debug\net6.0\Blog.Entity.pdb
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Data\bin\Debug\net6.0\Blog.Core.pdb
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Data\obj\Debug\net6.0\Blog.Data.csproj.CopyComplete
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Data\obj\Debug\net6.0\Blog.Data.genruntimeconfig.cache
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Data\obj\Debug\net6.0\ref\Blog.Data.dll

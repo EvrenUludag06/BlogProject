@@ -1,0 +1,30 @@
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Entity\bin\Debug\net6.0\Blog.Entity.deps.json
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Entity\bin\Debug\net6.0\Blog.Entity.dll
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Entity\bin\Debug\net6.0\Blog.Entity.pdb
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Entity\bin\Debug\net6.0\Blog.Core.dll
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Entity\bin\Debug\net6.0\Blog.Core.pdb
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Entity\obj\Debug\net6.0\Blog.Entity.csproj.AssemblyReference.cache
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Entity\obj\Debug\net6.0\Blog.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Entity\obj\Debug\net6.0\Blog.Entity.AssemblyInfoInputs.cache
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Entity\obj\Debug\net6.0\Blog.Entity.AssemblyInfo.cs
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Entity\obj\Debug\net6.0\Blog.Entity.csproj.CoreCompileInputs.cache
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Entity\obj\Debug\net6.0\Blog.Entity.csproj.CopyComplete
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Entity\obj\Debug\net6.0\Blog.Entity.dll
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Entity\obj\Debug\net6.0\refint\Blog.Entity.dll
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Entity\obj\Debug\net6.0\Blog.Entity.pdb
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Entity\obj\Debug\net6.0\ref\Blog.Entity.dll
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Entity\obj\Debug\net6.0\Blog.Entity.csproj.AssemblyReference.cache
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Entity\obj\Debug\net6.0\Blog.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Entity\obj\Debug\net6.0\Blog.Entity.AssemblyInfoInputs.cache
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Entity\obj\Debug\net6.0\Blog.Entity.AssemblyInfo.cs
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Entity\obj\Debug\net6.0\Blog.Entity.csproj.CoreCompileInputs.cache
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Entity\obj\Debug\net6.0\Blog.Entity.dll
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Entity\obj\Debug\net6.0\refint\Blog.Entity.dll
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Entity\obj\Debug\net6.0\Blog.Entity.pdb
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Entity\bin\Debug\net6.0\Blog.Entity.deps.json
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Entity\bin\Debug\net6.0\Blog.Entity.dll
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Entity\bin\Debug\net6.0\Blog.Entity.pdb
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Entity\bin\Debug\net6.0\Blog.Core.dll
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Entity\bin\Debug\net6.0\Blog.Core.pdb
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Entity\obj\Debug\net6.0\Blog.Entity.csproj.CopyComplete
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Entity\obj\Debug\net6.0\ref\Blog.Entity.dll

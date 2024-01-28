@@ -1,0 +1,220 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\js\articleIndex.js" />
+    <None Include="wwwroot\js\categoryAdd.js" />
+    <None Include="wwwroot\js\categoryIndex.js" />
+    <None Include="wwwroot\js\dashboardIndex.js" />
+    <None Include="wwwroot\js\site.js" />
+    <None Include="wwwroot\js\userIndex.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.js.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.min.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map" />
+    <None Include="wwwroot\lib\bootstrap\LICENSE" />
+    <None Include="wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js" />
+    <None Include="wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js" />
+    <None Include="wwwroot\lib\jquery-validation\dist\additional-methods.js" />
+    <None Include="wwwroot\lib\jquery-validation\dist\additional-methods.min.js" />
+    <None Include="wwwroot\lib\jquery-validation\dist\jquery.validate.js" />
+    <None Include="wwwroot\lib\jquery-validation\dist\jquery.validate.min.js" />
+    <None Include="wwwroot\lib\jquery-validation\LICENSE.md" />
+    <None Include="wwwroot\lib\jquery\dist\jquery.js" />
+    <None Include="wwwroot\lib\jquery\dist\jquery.min.js" />
+    <None Include="wwwroot\lib\jquery\dist\jquery.min.map" />
+    <None Include="wwwroot\sneat\.browserslistrc" />
+    <None Include="wwwroot\sneat\.eslintignore" />
+    <None Include="wwwroot\sneat\.github\workflows\handle-new-issue-comment.yml" />
+    <None Include="wwwroot\sneat\.github\workflows\handle-new-issue.yml" />
+    <None Include="wwwroot\sneat\.github\workflows\issue-staler.yml" />
+    <None Include="wwwroot\sneat\.gitignore" />
+    <None Include="wwwroot\sneat\.prettierignore" />
+    <None Include="wwwroot\sneat\assets\js\config.js" />
+    <None Include="wwwroot\sneat\assets\js\dashboards-analytics.js" />
+    <None Include="wwwroot\sneat\assets\js\extended-ui-perfect-scrollbar.js" />
+    <None Include="wwwroot\sneat\assets\js\form-basic-inputs.js" />
+    <None Include="wwwroot\sneat\assets\js\main.js" />
+    <None Include="wwwroot\sneat\assets\js\pages-account-settings-account.js" />
+    <None Include="wwwroot\sneat\assets\js\ui-modals.js" />
+    <None Include="wwwroot\sneat\assets\js\ui-popover.js" />
+    <None Include="wwwroot\sneat\assets\js\ui-toasts.js" />
+    <None Include="wwwroot\sneat\assets\vendor\fonts\boxicons\boxicons.svg" />
+    <None Include="wwwroot\sneat\assets\vendor\fonts\boxicons\boxicons.woff2" />
+    <None Include="wwwroot\sneat\assets\vendor\js\bootstrap.js" />
+    <None Include="wwwroot\sneat\assets\vendor\js\helpers.js" />
+    <None Include="wwwroot\sneat\assets\vendor\js\menu.js" />
+    <None Include="wwwroot\sneat\assets\vendor\libs\apex-charts\apexcharts.js" />
+    <None Include="wwwroot\sneat\assets\vendor\libs\highlight\highlight.js" />
+    <None Include="wwwroot\sneat\assets\vendor\libs\jquery\jquery.js" />
+    <None Include="wwwroot\sneat\assets\vendor\libs\masonry\masonry.js" />
+    <None Include="wwwroot\sneat\assets\vendor\libs\perfect-scrollbar\perfect-scrollbar.js" />
+    <None Include="wwwroot\sneat\assets\vendor\libs\popper\popper.js" />
+    <None Include="wwwroot\sneat\build-config.js" />
+    <None Include="wwwroot\sneat\CHANGELOG.md" />
+    <None Include="wwwroot\sneat\fonts\boxicons.scss" />
+    <None Include="wwwroot\sneat\gulpfile.js" />
+    <None Include="wwwroot\sneat\js\bootstrap.js" />
+    <None Include="wwwroot\sneat\js\helpers.js" />
+    <None Include="wwwroot\sneat\js\menu.js" />
+    <None Include="wwwroot\sneat\libs\apex-charts\apex-charts.scss" />
+    <None Include="wwwroot\sneat\libs\apex-charts\apexcharts.js" />
+    <None Include="wwwroot\sneat\libs\highlight\highlight-github.scss" />
+    <None Include="wwwroot\sneat\libs\highlight\highlight.js" />
+    <None Include="wwwroot\sneat\libs\highlight\highlight.scss" />
+    <None Include="wwwroot\sneat\libs\jquery\jquery.js" />
+    <None Include="wwwroot\sneat\libs\masonry\masonry.js" />
+    <None Include="wwwroot\sneat\libs\perfect-scrollbar\perfect-scrollbar.js" />
+    <None Include="wwwroot\sneat\libs\perfect-scrollbar\perfect-scrollbar.scss" />
+    <None Include="wwwroot\sneat\libs\popper\popper.js" />
+    <None Include="wwwroot\sneat\LICENSE.md" />
+    <None Include="wwwroot\sneat\README.md" />
+    <None Include="wwwroot\sneat\scss\core.scss" />
+    <None Include="wwwroot\sneat\scss\pages\page-account-settings.scss" />
+    <None Include="wwwroot\sneat\scss\pages\page-auth.scss" />
+    <None Include="wwwroot\sneat\scss\pages\page-icons.scss" />
+    <None Include="wwwroot\sneat\scss\pages\page-misc.scss" />
+    <None Include="wwwroot\sneat\scss\theme-default.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\forms\_floating-labels.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\forms\_form-control.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\forms\_form-range.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\forms\_form-select.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\forms\_input-group.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\forms\_labels.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\forms\_validation.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\mixins\_alert.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\mixins\_badge.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\mixins\_buttons.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\mixins\_caret.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\mixins\_dropdown.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\mixins\_forms.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\mixins\_list-group.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\mixins\_misc.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\mixins\_navs.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\mixins\_pagination.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\mixins\_progress.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\mixins\_table-variants.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\mixins\_toasts.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_accordion.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_alert.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_badge.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_breadcrumb.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_button-group.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_buttons.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_card.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_carousel.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_close.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_dropdown.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_forms.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_functions.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_include.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_list-group.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_mixins.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_modal.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_nav.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_navbar.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_offcanvas.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_pagination.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_popover.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_progress.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_reboot.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_root.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_spinners.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_tables.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_toasts.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_tooltip.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_type.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_utilities-ltr.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_utilities.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap-extended\_variables.scss" />
+    <None Include="wwwroot\sneat\scss\_bootstrap.scss" />
+    <None Include="wwwroot\sneat\scss\_colors.scss" />
+    <None Include="wwwroot\sneat\scss\_components.scss" />
+    <None Include="wwwroot\sneat\scss\_components\mixins\_app-brand.scss" />
+    <None Include="wwwroot\sneat\scss\_components\mixins\_avatar.scss" />
+    <None Include="wwwroot\sneat\scss\_components\mixins\_footer.scss" />
+    <None Include="wwwroot\sneat\scss\_components\mixins\_menu.scss" />
+    <None Include="wwwroot\sneat\scss\_components\mixins\_misc.scss" />
+    <None Include="wwwroot\sneat\scss\_components\mixins\_navbar.scss" />
+    <None Include="wwwroot\sneat\scss\_components\mixins\_text-divider.scss" />
+    <None Include="wwwroot\sneat\scss\_components\_app-brand.scss" />
+    <None Include="wwwroot\sneat\scss\_components\_avatar.scss" />
+    <None Include="wwwroot\sneat\scss\_components\_base.scss" />
+    <None Include="wwwroot\sneat\scss\_components\_common.scss" />
+    <None Include="wwwroot\sneat\scss\_components\_footer.scss" />
+    <None Include="wwwroot\sneat\scss\_components\_include.scss" />
+    <None Include="wwwroot\sneat\scss\_components\_layout.scss" />
+    <None Include="wwwroot\sneat\scss\_components\_menu.scss" />
+    <None Include="wwwroot\sneat\scss\_components\_mixins.scss" />
+    <None Include="wwwroot\sneat\scss\_components\_text-divider.scss" />
+    <None Include="wwwroot\sneat\scss\_components\_variables.scss" />
+    <None Include="wwwroot\sneat\scss\_custom-variables\_bootstrap-extended.scss" />
+    <None Include="wwwroot\sneat\scss\_custom-variables\_components.scss" />
+    <None Include="wwwroot\sneat\scss\_custom-variables\_libs.scss" />
+    <None Include="wwwroot\sneat\scss\_custom-variables\_pages.scss" />
+    <None Include="wwwroot\sneat\scss\_custom-variables\_support.scss" />
+    <None Include="wwwroot\sneat\scss\_theme\_common.scss" />
+    <None Include="wwwroot\sneat\scss\_theme\_theme.scss" />
+    <None Include="wwwroot\sneat\tasks\build.js" />
+    <None Include="wwwroot\sneat\tasks\prod.js" />
+    <None Include="wwwroot\sneat\webpack.config.js" />
+    <None Include="wwwroot\sneat\yarn.lock" />
+    <None Include="wwwroot\stand-blog\assets\fonts\flexslider-icon.svg" />
+    <None Include="wwwroot\stand-blog\assets\fonts\fontawesome-webfont.svg" />
+    <None Include="wwwroot\stand-blog\assets\fonts\fontawesome-webfont.woff2" />
+    <None Include="wwwroot\stand-blog\assets\fonts\slick.svg" />
+    <None Include="wwwroot\stand-blog\assets\js\accordions.js" />
+    <None Include="wwwroot\stand-blog\assets\js\custom.js" />
+    <None Include="wwwroot\stand-blog\assets\js\isotope.js" />
+    <None Include="wwwroot\stand-blog\assets\js\owl.js" />
+    <None Include="wwwroot\stand-blog\assets\js\slick.js" />
+    <None Include="wwwroot\stand-blog\vendor\bootstrap\js\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\stand-blog\vendor\jquery\jquery.min.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="6.0.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.9">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.9" />
+    <PackageReference Include="NToastNotify" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Blog.Data\Blog.Data.csproj" />
+    <ProjectReference Include="..\Blog.Service\Blog.Service.csproj" />
+  </ItemGroup>
+
+</Project>

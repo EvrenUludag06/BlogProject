@@ -1,0 +1,23 @@
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Core\bin\Debug\net6.0\Blog.Core.deps.json
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Core\bin\Debug\net6.0\Blog.Core.dll
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Core\bin\Debug\net6.0\Blog.Core.pdb
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Core\obj\Debug\net6.0\Blog.Core.csproj.AssemblyReference.cache
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Core\obj\Debug\net6.0\Blog.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Core\obj\Debug\net6.0\Blog.Core.AssemblyInfoInputs.cache
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Core\obj\Debug\net6.0\Blog.Core.AssemblyInfo.cs
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Core\obj\Debug\net6.0\Blog.Core.csproj.CoreCompileInputs.cache
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Core\obj\Debug\net6.0\Blog.Core.dll
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Core\obj\Debug\net6.0\refint\Blog.Core.dll
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Core\obj\Debug\net6.0\Blog.Core.pdb
+C:\Users\EVREN\source\repos\Blog.WebUI\Blog.Core\obj\Debug\net6.0\ref\Blog.Core.dll
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Core\bin\Debug\net6.0\Blog.Core.deps.json
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Core\bin\Debug\net6.0\Blog.Core.dll
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Core\bin\Debug\net6.0\Blog.Core.pdb
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Core\obj\Debug\net6.0\Blog.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Core\obj\Debug\net6.0\Blog.Core.AssemblyInfoInputs.cache
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Core\obj\Debug\net6.0\Blog.Core.AssemblyInfo.cs
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Core\obj\Debug\net6.0\Blog.Core.csproj.CoreCompileInputs.cache
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Core\obj\Debug\net6.0\Blog.Core.dll
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Core\obj\Debug\net6.0\refint\Blog.Core.dll
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Core\obj\Debug\net6.0\Blog.Core.pdb
+C:\Users\EVREN\Desktop\My Blog Project\Blog.WebUI\Blog.Core\obj\Debug\net6.0\ref\Blog.Core.dll
